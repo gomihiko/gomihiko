@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**gomihiko/gomihiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Now**
+- 🏫 Learning about assembly language and computer organization
+- 🌱 Improving Python, Rust and C++ skills
+- 🔓 Learning about open source development
 
-Here are some ideas to get you started:
+**Me**
+- 🗣 He/Him
+- ⌨️ Using `.py`, `.cpp`, and `.rs` on the regular
+- 🎮 Interested in web and game development, but I don't have time for it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GomiHiko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomiHiko)](https://github.com/anuraghazra/github-readme-stats)
+
+
