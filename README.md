@@ -10,7 +10,7 @@
 - ⌨️ Using `.py`, `.cpp`, and `.rs` on the regular
 - 🎮 Interested in web and game development
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GomiHiko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GomiHiko&custom-title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomiHiko)](https://github.com/anuraghazra/github-readme-stats)
 
 
